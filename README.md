@@ -3,3 +3,4 @@
 # in math i am performing some mathmetical operation like find the minimum, maximum, average
 # in statop i am performing find the median of a array
 # in array op i have created the two classes one is for array and another one is for string.
+#in inheritance file i have solve some questions using simple inheritance.
